@@ -11,6 +11,7 @@ Installation
 Instructions on setting up the project environment:
 
 1.Please follow the guidance in LAMP.ipynb for enviroment setup, training and inference.
+
 2.(Warning for Training) At least 9 hours for a single A100 GPU training one motion pattern.
 
 Evaluation

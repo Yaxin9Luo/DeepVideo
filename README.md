@@ -10,16 +10,16 @@ DTU Deep Learning Course Project :
 Installation
 Instructions on setting up the project environment:
 
-1.Please follow the guidance in LAMP.ipynb for enviroment setup, training and inference.
-
-2.(Warning for Training) At least 9 hours for a single A100 GPU training one motion pattern.
+  1.Please follow the guidance in LAMP.ipynb for enviroment setup, training and inference.
+  
+  2.(Warning for Training) At least 9 hours for a single A100 GPU training one motion pattern.
 
 Evaluation
 Guidance on evaluating the project's performance:
 
-1.Navigate to the Evaluation directory.
-
-2.Follow instructions in Assesment.ipynb and other relevant scripts for assessment and analysis.
+  1.Navigate to the Evaluation directory.
+  
+  2.Follow instructions in Assesment.ipynb and other relevant scripts for assessment and analysis.
 
 Dataset
 

@@ -6,18 +6,8 @@ DTU Deep Learning Course Project #AFFORDABLE TEXT TO VIDEO DIFFUSED GENERATION: 
 Installation
 Instructions on setting up the project environment:
 
-1.Clone the repository: git clone https://github.com/Yaxin9Luo/DeepVideo.git
-
-2.Navigate to the project directory: cd DeepVideo
-
-3.Install required dependencies: pip install -r requirements.txt
-
-Usage
-Detailed steps on how to use the project:
-
-1.Inference: Explain how to use inference_script.py for making predictions or processing data.
-
-2.Training: Guide on how to train models using train_lamp.py.
+1.Please follow the guidance in LAMP.ipynb for enviroment setup, training and inference.
+2.(Warning for Training) At least 9 hours for a single A100 GPU training one motion pattern.
 
 Evaluation
 Guidance on evaluating the project's performance:
@@ -26,10 +16,9 @@ Guidance on evaluating the project's performance:
 
 2.Follow instructions in Assesment.ipynb and other relevant scripts for assessment and analysis.
 
-Benchmarking
-Information on benchmarking procedures:
+Dataset
 
-1.Description of benchmark datasets and their significance.
+1. The Training Videos are included in training_videos folder
 
-2.Steps to use benchmark images and resources in the Benchmark directory for testing and comparison.
+2. images in benchmark folder could be used for inference as the first frame image with prompt.
 

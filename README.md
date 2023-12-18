@@ -1,5 +1,6 @@
 # DeepVideo
 DTU Deep Learning Course Project :
+
                   Affordable Text to Video Diffused Generation: Empirical Study
                     (Hugo Herrero, Xiaofu Chen, Yueting Guan,Yaxin Luo)
                             Technical University of Denmark

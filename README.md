@@ -1,5 +1,9 @@
 # DeepVideo
-DTU Deep Learning Course Project #AFFORDABLE TEXT TO VIDEO DIFFUSED GENERATION: EMPIRICAL STUDY 
+DTU Deep Learning Course Project :
+            
+              
+              
+              AFFORDABLE TEXT TO VIDEO DIFFUSED GENERATION: EMPIRICAL STUDY 
                     (Hugo Herrero, Xiaofu Chen, Yueting Guan,Yaxin Luo)
                             Technical University of Denmark
 

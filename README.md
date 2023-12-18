@@ -33,9 +33,3 @@ Information on benchmarking procedures:
 
 2.Steps to use benchmark images and resources in the Benchmark directory for testing and comparison.
 
-Configuration
-Instructions on using and modifying configuration files:
-
-1.Details on horse-videoset.yaml and other configuration files.
-
-2.How to customize configurations for different use cases.

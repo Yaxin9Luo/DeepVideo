@@ -6,7 +6,9 @@ Installation
 Instructions on setting up the project environment:
 
 1.Clone the repository: git clone https://github.com/Yaxin9Luo/DeepVideo.git
+
 2.Navigate to the project directory: cd DeepVideo
+
 3.Install required dependencies: pip install -r requirements.txt
 
 Usage
